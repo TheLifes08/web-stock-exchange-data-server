@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Колованов Р.А.",
+    "login": "rkolovanov",
+    "balance": 50000
+  },
+  {
+    "name": "Овальный А.А.",
+    "login": "terrorist04",
+    "balance": 1000
+  },
+  {
+    "name": "Мутин В.В.",
+    "login": "lider",
+    "balance": 10000000000
+  }
+]

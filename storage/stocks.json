@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Сбербанк",
+    "startPrice": 300,
+    "maximumStep": 50,
+    "number": 1000,
+    "changeType": 0
+  },
+  {
+    "name": "TCS Group",
+    "startPrice": 6338,
+    "maximumStep": 1000,
+    "number": 500,
+    "changeType": 0
+  },
+  {
+    "name": "Газпром",
+    "startPrice": 337,
+    "maximumStep": 50,
+    "number": 1000,
+    "changeType": 0
+  },
+  {
+    "name": "Yandex",
+    "startPrice": 3872,
+    "maximumStep": 500,
+    "number": 100,
+    "changeType": 0
+  }
+]
